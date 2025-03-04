@@ -1,0 +1,7 @@
+Default Admin Access
+Username: admin
+Password: admin123
+
+Sample User Access
+Email: cblake
+Password: cblake123
